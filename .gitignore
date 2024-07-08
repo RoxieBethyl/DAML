@@ -4,4 +4,4 @@
 *.yml
 __pycache__/
 _.condarc
-./Project_3/
+Project_3/
