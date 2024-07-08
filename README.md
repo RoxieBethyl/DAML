@@ -2,13 +2,7 @@
 
 #### Done in year 2023-24
 
-This in repository are the projects and exercises done during this course. All the code in this repository is mainly $$Python$$ with a few files in $$C++$$.
-
-# Data Analysis and Machine Learning
-
-## Done in year 2023-24
-
-This in repository are the projects and exercises done during this course. All the code in this repository is mainly $$Python$$ with a few files in $$C++$$.
+This in repository are the projects and exercises done during this course. All the code in this repository is mainly `Python` with a few files in `C++`.
 
 # Project Summaries
 
