@@ -13,10 +13,16 @@ This in repository are the projects and exercises done during this course. All t
 - Generated new datasets with defined signal-to-noise ratios and performed parameter estimation fits on these datasets.
 - Evaluated trends in the parameters across different simulations to assess the stability and accuracy of the fits.
 
+
 ### **[Project 2](https://github.com/RoxieBethyl/DAML/tree/main/Sem%202/Project%202): Anomaly Detection in Particle Physics using Machine Learning**
-- Analyzed particle data from the standard model to understand baseline characteristics.
-- Developed a neural network (NN) model using TensorFlow and Scikit-Learn to classify particle data, aiming to identify anomalies that could indicate particles not accounted for by the standard model.
-- Trained the model on a new dataset to detect "new" reactions, focusing on anomaly detection.
+- Analyzed the existing dataset derived from the standard model, employing visual descriptors such as plots to gain insights.
+
+- Developed a neural network (NN) using TensorFlow and Scikit-Learn, designed as a Variational Autoencoder (VAE), to enhance understanding of particle data according to the standard model.
+
+- Trained the model to detect "new" reactions within a novel dataset, aiming to identify particles not accounted for by the standard model through anomaly detection.
+
+- Evaluated the trained model by examining the reconstruction loss, which aids in isolating anomaly particles.
+
 
 ### **[Project 4](https://github.com/RoxieBethyl/DAML/tree/main/Sem%202/Project4): Exotic Searching with ATLAS data and ML Classification**
 - Hypothesis testing is employed to apply selection cuts on the datasets, enhancing data quality for analysis.
