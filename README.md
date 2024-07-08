@@ -17,10 +17,14 @@ This in repository are the projects and exercises done during this course. All t
 - Analyzed particle data from the standard model to understand baseline characteristics.
 - Developed a neural network (NN) model using TensorFlow and Scikit-Learn to classify particle data, aiming to identify anomalies that could indicate particles not accounted for by the standard model.
 - Trained the model on a new dataset to detect "new" reactions, focusing on anomaly detection.
-- Implemented hypothesis testing and applied selection cuts to refine the dataset for better anomaly detection.
 
 ### **[Project 4](https://github.com/RoxieBethyl/DAML/tree/main/Sem%202/Project4): Exotic Searching with ATLAS data and ML Classification**
-- Description not provided. (Note: This project lacks a detailed description. Consider adding details similar to the previous projects, focusing on objectives, methodologies, and outcomes.)
+- Hypothesis testing is employed to apply selection cuts on the datasets, enhancing data quality for analysis.
+- Kinematic cuts are implemented, filtering the dataset based on the importance of variables, to isolate relevant features.
+- Signal and background spectrums are modeled using dedicated functions, facilitating a clearer distinction between the two.
+- Parameter fitting focuses on the signal-only spectrum, with statistical significance assessed for the joint mass spectrum to ensure robustness.
+- The dataset undergoes training to classify between signal and background, utilizing neural network (NN) training techniques for improved accuracy.
+- A brief exploration of search sensitivity's impact is conducted, assessing how it influences the overall detection capability.
 
 
 ## Exercises
