@@ -2,9 +2,9 @@
 
 # Data Analysis and Machine Learning
 
-#### Done in year 2023-24
+#### Done during 2023-24
 
-This in repository are the projects and exercises done during this course. All the code in this repository is mainly `Python` with a few files in `C++`. A brief discription of the main projects done in during this course are listed under [Project Summaries](#project-summaries).
+This repository contains the projects and exercises done during this course. All the code in this repository is mainly `Python` with a few files in `C++`. A brief description of the main projects done during this course are listed under [Project Summaries](#project-summaries).
 
 ## Project Summaries
 
@@ -29,7 +29,7 @@ This in repository are the projects and exercises done during this course. All t
 ### **[Project 4](https://github.com/RoxieBethyl/DAML/tree/main/Sem%202/Project4): Exotic Searching with ATLAS data and ML Classification**
 - Hypothesis testing is employed to apply selection cuts on the datasets, enhancing data quality for analysis.
 - Kinematic cuts are implemented, filtering the dataset based on the importance of variables, to isolate relevant features.
-- Signal and background spectrums are modeled using dedicated functions, facilitating a clearer distinction between the two.
+- Signal and background spectrums are modelled using dedicated functions, facilitating a clearer distinction between the two.
 - Parameter fitting focuses on the signal-only spectrum, with statistical significance assessed for the joint mass spectrum to ensure robustness.
 - The dataset undergoes training to classify between signal and background, utilizing neural network (NN) training techniques for improved accuracy.
 - A brief exploration of search sensitivity's impact is conducted, assessing how it influences the overall detection capability.
@@ -37,4 +37,4 @@ This in repository are the projects and exercises done during this course. All t
 
 ## Exercises
 
-Some of the exercises in this repo focus on the ML implementation for efficent data analysis and to understand how to build robust models for training.
+Some of the exercises in this repo focus on ML implementation for efficient data analysis and to understand how to build robust models for training. Exercises are done within each week and the code developed is recycled for project assignments.
