@@ -21,3 +21,8 @@ This in repository are the projects and exercises done during this course. All t
 
 ### **[Project 4](https://github.com/RoxieBethyl/DAML/tree/main/Sem%202/Project4): Exotic Searching with ATLAS data and ML Classification**
 - Description not provided. (Note: This project lacks a detailed description. Consider adding details similar to the previous projects, focusing on objectives, methodologies, and outcomes.)
+
+
+## Exercises
+
+Some of the exercises in this repo focus on the ML implementation for efficent data analysis and to understand how to build robust models for training.
