@@ -19,7 +19,7 @@ This repository contains the projects and exercises done during this course. All
 ### **[Project 2](https://github.com/RoxieBethyl/DAML/tree/main/Sem%202/Project%202): Anomaly Detection in Particle Physics using Machine Learning**
 - Analyzed the existing dataset derived from the standard model, employing visual descriptors such as plots to gain insights.
 
-- Developed a neural network (NN) using TensorFlow and Scikit-Learn, designed as a Variational Autoencoder (VAE), to enhance understanding of particle data according to the standard model.
+- Developed a neural network (NN) using `TensorFlow` and `Scikit-Learn`, designed as a Variational Autoencoder (VAE), to enhance understanding of particle data according to the standard model.
 
 - Trained the model to detect "new" reactions within a novel dataset, aiming to identify particles not accounted for by the standard model through anomaly detection.
 
