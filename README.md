@@ -2,7 +2,7 @@
 
 #### Done in year 2023-24
 
-This in repository are the projects and exercises done during this course. All the code in this repository is mainly `Python` with a few files in `C++`.
+This in repository are the projects and exercises done during this course. All the code in this repository is mainly `Python` with a few files in `C++`. A brief discription of the main projects done in during this course are listed under [Project Summaries](#project-summaries).
 
 ## Project Summaries
 
@@ -20,7 +20,7 @@ This in repository are the projects and exercises done during this course. All t
 - Implemented hypothesis testing and applied selection cuts to refine the dataset for better anomaly detection.
 
 ### **Project 3: Particle Detector Simulation with Geant4**
-- Utilized Geant4 to create a simulation framework for a particle detector, focusing on the design and functionality of the detector in C++.
+- Utilised Geant4 to create a simulation framework for a particle detector, focusing on the design and functionality of the detector in C++.
 - Measured and analyzed the energy and energy deposition on the detector components to study the energy ratio and detector efficiency.
 
 ### **Project 4: Exotic Searching with ATLAS data and ML Classification**
