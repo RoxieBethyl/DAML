@@ -1,6 +1,8 @@
+#### Author: Blythe Fernandes
+
 # Data Analysis and Machine Learning
 
-#### Done in year 2023-24 <br> Author: Blythe Fernandes
+#### Done in year 2023-24
 
 This in repository are the projects and exercises done during this course. All the code in this repository is mainly `Python` with a few files in `C++`. A brief discription of the main projects done in during this course are listed under [Project Summaries](#project-summaries).
 
