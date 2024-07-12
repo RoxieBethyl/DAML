@@ -40,3 +40,5 @@ This repository contains the projects and exercises done during this course. All
 Some of the exercises in this repo focus on ML implementation for efficient data analysis and to understand how to build robust models for training. Exercises are done within each week and the code developed is recycled for project assignments.
 
 ### Geant4 Simulation
+- The simulation is run from either the terminal or through the GUI support of [GEANT4](https://geant4.org/download/license). The data is collected from the simulations.
+- The ratios of particles interactions with the energy sheilds within the detector are examined. The momentums of the partciles are also verified. This is done by using a method to understand the true momentum and the calculated momentum.
